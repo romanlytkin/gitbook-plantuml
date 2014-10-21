@@ -22,7 +22,7 @@ This is a sample plugin for GitBook and is specially adapted for GitBook from [P
 
 ![](./images/uml.png)
 
-***Image uml. ***
+***Image uml.***
 
 **How to use it:**
 --------------
