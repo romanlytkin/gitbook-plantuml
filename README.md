@@ -5,7 +5,7 @@ This is a sample plugin for GitBook and is specially adapted for GitBook from [P
 
 **Example:**
 
-*Text format dot:*
+*Text format uml:*
 
 @startuml
 
