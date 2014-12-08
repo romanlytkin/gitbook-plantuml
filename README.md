@@ -29,7 +29,7 @@ This is a sample plugin for GitBook and is specially adapted for GitBook from [P
 
 Gitbook PlantUml plugin can be installed from NPM using:
 
-```$ npm install gitbook-plantUML```
+```$ npm install gitbook-plantuml```
 
 ***Additional requirements:***
 
