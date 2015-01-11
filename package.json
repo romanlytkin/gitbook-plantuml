@@ -1,17 +1,17 @@
 {
-    "name": "gitbook-plantuml",
+  "name": "gitbook-plantuml",
     "description": "Sample plugin for GitBook",
-    "main": "index.js",
+  "main": "index.js",
     "version": "0.0.2",
-    "engines": {
-        "gitbook": "*"
-    },
+  "engines": {
+    "gitbook": "*"
+  },
     "homepage": "",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/romanlytkin/gitbook-plantuml.git"
-    },
-    "license": "Apache 2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romanlytkin/gitbook-plantuml.git"
+  },
+  "license": "Apache 2",
     "bugs": {
         "url": ""
     }
